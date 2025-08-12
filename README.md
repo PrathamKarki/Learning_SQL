@@ -1,6 +1,6 @@
 # Learning_SQL
 
-Hello everyone! 👋
+Hello everyone! 
 
 I'm currently learning **SQL** to strengthen my data management and querying skills. My goal is to understand how to interact with databases effectively, write complex queries, and work with real-world datasets.
 
@@ -9,6 +9,7 @@ I'm currently learning **SQL** to strengthen my data management and querying ski
 ### Platforms I'm  Currently Using:
 - **Codecademy** – for foundational concepts and guided interactive learning.
 - **SQLBolt** – for quick, practical lessons with visual examples.
+- **Hackerrank** - for challenging exercises and problem-solving practice.
 
 
 ##  Practice and Application
@@ -33,7 +34,14 @@ I'm regularly practicing SQL through challenges and exercises that cover:
 - Grouping results with `GROUP BY`
 - Filtering grouped results with `HAVING`
 
-- other topics such as 'joins', 'subqueries', CTEs' and 'window functions' to be covered soon.
+### Joins and Set Operations
+  - `INNER JOIN`
+  - `LEFT JOIN` (Left Outer Join)
+  - `RIGHT JOIN` (Right Outer Join)
+  - `FULL OUTER JOIN`
+  - `CROSS JOIN`
+
+- other topics such as 'subqueries', CTEs' and 'window functions' to be covered soon.
 
 ## Repository Structure
 
@@ -41,11 +49,11 @@ I'm regularly practicing SQL through challenges and exercises that cover:
 Learning_SQL/
 │
 ├── 01_SQL_codecademy/          # Notes and code from Codecademy lessons
+├── HackerRank_problems/        # Challenges and solutions from Hackerrank SQL problems   
+├── sql_practice/               # Custom exercises with increasing levels and solutions
 ├── sqlbolt_lessons/            # Notes and queries from SQLBolt
-├── sql_practice/               # Custom exercises with increase levels and solutions
 └── README.md                   # This file
 ```
-
 ---
 
 ## Goals
